@@ -1,0 +1,519 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.ben { 
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: white !important;
+    font-weight: bold;
+    font-size: larger;
+    align-content: center;
+    border: 2px solid black;
+    border-radius: 50px;
+    text-align: center;
+    margin: 40px 0 20px 20px;
+
+}
+
+.ben:hover{
+    background-color: white;
+    color: black !important;
+    border: 2px solid black;
+}
+
+.sect{
+    color: rgb(163, 57, 57);}
+    
+.sect:hover{
+    color: rgba(156, 149, 149, 0.838) !important;
+}
+
+.h{
+    margin-left: 70%;
+
+}
+
+.img-top
+{
+    height: 155px;
+}
+
+.img-top:hover{
+filter: blur(1px);
+-webkit-filter: blur(1px);}
+
+.herobnt{
+
+    height: 100px; 
+    width: 1000px; 
+    font-size: 70px; 
+    background-color: transparent; 
+    color: rgb(255, 255, 255); 
+    font-weight: bold; 
+    border: none; 
+    float: left; 
+    margin-top: -300px; 
+    
+}
+
+
+.caro{
+    height: 650px; 
+    padding: 2px 5px; 
+    border-radius: 20px;
+}
+
+.caro:hover{
+    filter: blur(1px);
+    -webkit-filter: blur(1px);
+}
+
+.white:hover{
+    transform: translateY(3px);
+    
+}
+
+.black:hover{
+    transform: translateY(3px);
+}
+
+.bdcard{
+    width: 16rem; 
+    border: none;
+    border-radius: 10px;
+    
+}
+
+
+.head-form
+{
+text-align: center;
+}
+
+
+.cont{
+margin-left:  20px;
+}
+/* 
+.form{   
+    height: 24rem;
+    width: 50rem;
+    text-align: center;
+    background-color: #e6e6e6;
+    margin-bottom: 4rem;
+    border-radius: 10px;
+    
+} */
+
+.forminput{
+    height: 400px;
+    width: 1100px;
+    background-color: #e6e6e6 ;
+    text-align: center;
+    padding-right: 20px;
+
+}
+
+h5{
+    
+    font-size: 2rem;
+    margin-top: 15rem;
+    margin-right: 20px;
+    text-align: center;
+    color: rgb(169, 169, 169);
+    opacity: var(#843838);
+}
+
+
+
+
+
+h6{
+    font-size: 14px;
+    justify-content: center;
+    color: grey ;
+}
+
+h1{
+    font-size: 30px;
+    padding-top: 40px;
+    font-weight: bold; 
+    font-family: serif;
+    
+}
+
+h2{
+    font-size: 21px; 
+    padding-top: 10px;
+    color: rgb(110, 110, 110);
+}
+
+h3 {text-align: center; font-size: large;margin-top: 5rem;}
+
+h3:hover
+{
+    color: #b4b6ba8b;
+}
+
+
+
+input{
+    height: 3rem;
+    width: 14rem;
+    border: 1px solid rgb(210, 210, 210);
+    padding: 0 10px;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+.para{
+    color: rgb(122, 122, 122);
+}
+
+.SIGN {
+    border-radius: 5px;
+    height: 3rem;
+    width: 8rem;
+    background-color: #006CE4;
+    font-weight: 20px;
+    border: none;
+    color: aliceblue;
+}
+
+.SIGN:hover{
+    background-color: #006ae4d3;
+}
+
+.Explore{
+    border-radius: 5px;
+    height: 40px;
+    width: 170px;
+    background-color: #006CE4;
+    font-weight: bold;
+    color: aliceblue;
+    border: none;
+}
+
+.Explore:hover{
+    background-color: #006ae4d3;
+}
+
+.imgcont{
+    height: 60%; 
+    width: 30%; 
+    border-radius: 10px; 
+    margin-left: 70%; 
+    margin-top: -30%;
+}
+
+#fm{
+
+}
+
+
+.w{
+    width: 500px;
+}
+
+.containergrid{
+    margin-left: 340px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    width: 100px;
+}
+
+.white{
+    background-color: rgb(195, 193, 190);
+    height: 100px;
+    width: 100px;
+}
+
+.control{
+    width: 1300px;
+    margin-left: 0px;
+}
+
+.black{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}  
+
+/* About me page */
+.body-about{
+    text-align: center;
+}
+.letswork{
+    text-align: center;
+}
+.imgpic{
+    height: 30px;
+    width: 30px;
+    padding: 20px 20px;
+}
+
+.forminput2{
+    text-align: center;
+}
+#adventurelogo{
+text-align: center;
+}
+
+#button-tour{
+    height: 40px;
+    width: 200px;
+    background-color: white;
+    font-weight: 20px;
+    border: 1px solid black;
+    color: black;
+    border-radius: 20px;
+}
+
+#fb:hover{
+    background-color: black;
+    color: #e6e6e6;
+}
+
+#inst:hover{
+    background-color: black;
+    color: #e6e6e6;
+}
+
+#link:hover{
+    background-color: black;
+    color: #e6e6e6;
+}
+
+#twit:hover{
+    background-color: black;
+    color: #e6e6e6;
+}
+
+#fm{
+    text-align: start; 
+    padding-left: 40px; 
+    margin-left: 30px;
+}
+
+.reset{
+    text-align: center;
+}
+ 
+.imgblog{
+    height: 600px; width:1000px;
+}
+
+
+
+/* for small screens */
+@media screen and (max-width: 600px)
+{
+.caro {
+    height: 300px;
+    width: 5px;
+
+}
+
+.herobnt{
+
+    height: 10px; 
+    width: 140px; 
+    font-size: 30px; 
+    background-color: transparent; 
+    color: rgb(161, 31, 31); 
+    font-weight: thin; 
+    border: none; 
+    float: left; 
+    margin-top: 10px; 
+    
+}
+
+.control{
+    margin-left: -10px;
+    width: 300px;
+}
+
+#fm{
+    margin-left: 0px;
+}
+
+
+h5{
+    font-size: bold;
+    text-align: center;
+}
+
+
+
+#blogform{
+    width: 100px;
+    height: 1000px;
+}
+
+
+.card-list{
+    margin-left: 1em;
+}
+
+
+.cont{
+    margin-right: 10rem;
+    columns: lg -5px;
+    flex-direction: column; 
+}
+
+
+h2{
+    font-size: 15px;      
+}
+
+
+.para
+{
+    font-size: x-small;
+}
+
+
+
+
+.imgcont
+{
+    height: 70%; 
+     width: 40%; 
+    border-radius: 10px; 
+    margin-left: 60%; 
+    margin-top: -30%;
+    padding-left: 30px;
+}
+
+
+
+.imgblog{
+    height: 300px; width:350px;
+}
+
+
+
+.w
+{
+width: 298px;
+}
+
+
+.Explore
+{
+    border-radius: 5px;
+    height: 40px;
+    width: 130px;
+    background-color: #006CE4;
+    font-weight: bold;
+    color: aliceblue;
+    border: none;
+}
+
+
+#adventurelogo{
+    height: 20px;
+    width: 10px;
+}
+
+
+
+.containergrid{
+    margin-left: 40px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
+    width: 10px;
+}
+
+
+input
+{
+    text-align: center;
+    height: 3rem;
+    width: 14rem;
+    padding: 0 10px;
+    font-style: italic;    
+}
+
+
+
+h6{
+    font-size: 12px;
+}
+
+
+h1{
+    font-size: 20px;
+    padding-top: 40px;
+}
+
+
+.forminput{
+    height: 500px;
+    width: 340px;
+    margin-left: 30px;
+    
+}
+
+
+
+.img-top{
+    height: 170px;
+    width: 330px;
+    border: none;
+    border-width: none;
+}
+
+}
+
+
+@media (min-width: 600px) and (max-width: 840px){
+     
+
+    .containergrid{
+        padding-left: 52px;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ; 
+        width: 10px;
+    }
+    
+
+    .control{
+        width: 750px;
+        
+    }
+    
+    .herobnt{
+
+        height: 100px; 
+        width: 1000px; 
+        font-size: 50px; 
+        background-color: transparent; 
+        color: rgb(255, 255, 255); 
+        font-weight: bold; 
+        border: none; 
+        padding-right: 370px; 
+        margin-top: -300px; 
+        
+    }
+
+    .card-list{
+        margin-left: 50px;
+    }
+
+
+    .bdcard{
+        width: 15rem; 
+        border: none;
+        border-radius: 10px;
+        
+    }
+}
